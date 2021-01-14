@@ -23,7 +23,7 @@ What has changed?
 - fmSyntaxColorizer is now a separate project to fmWorkMate
 - Support for dark mode - at last!
 - Collections - to quickly add/remove a bunch of syntax colors
-- See the [CHANGES](Changes.md) file for more
+- See the [CHANGES](CHANGES.md) file for more
 
 One thing, however, won't change...
 
