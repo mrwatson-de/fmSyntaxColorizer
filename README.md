@@ -134,6 +134,7 @@ MrWatson has a bunch of other stuff, check out [fmworkmate.com], [mrwatson.de], 
 [fmSyntaxColorizer home]:https://www.fmworkmate.com/fmsyntaxcolorizer
 [fmSyntaxColorizer repo]:https://github.com/mrwatson-de/fmSyntaxColorizer
 [fmSyntaxColorizer logo]:fmSyntaxColorizer_Logo_256_sm.png
+[fmworkmate.com]:https://www.fmworkmate.com/
 [mrwatson.de logo]:www.mrwatson.de_neon_128.png
 [mrwatson.de]:http://www.mrwatson.de
 [MBS-Plugin]:https://www.monkeybreadsoftware.com/filemaker/
