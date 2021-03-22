@@ -23,7 +23,7 @@ What has changed?
 - fmSyntaxColorizer is now a separate project to fmWorkMate
 - Support for dark mode - at last!
 - Collections - to quickly add/remove a bunch of syntax colors
-- See the [CHANGES](Changes.md) file for more
+- See the [CHANGES](CHANGES.md) file for more
 
 One thing, however, won't change...
 
@@ -134,6 +134,7 @@ MrWatson has a bunch of other stuff, check out [fmworkmate.com], [mrwatson.de], 
 [fmSyntaxColorizer home]:https://www.fmworkmate.com/fmsyntaxcolorizer
 [fmSyntaxColorizer repo]:https://github.com/mrwatson-de/fmSyntaxColorizer
 [fmSyntaxColorizer logo]:fmSyntaxColorizer_Logo_256_sm.png
+[fmworkmate.com]:https://www.fmworkmate.com/
 [mrwatson.de logo]:www.mrwatson.de_neon_128.png
 [mrwatson.de]:http://www.mrwatson.de
 [MBS-Plugin]:https://www.monkeybreadsoftware.com/filemaker/
