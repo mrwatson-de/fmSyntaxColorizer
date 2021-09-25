@@ -45,7 +45,7 @@ MrWatson 2021-09-16
 ## Get Started
 
 1. Install:
-   - Download fmSyntaxColorizer from the [fmSyntaxColorizer repo][fmSyntaxColorizer repo]
+   - Download the [latest release](https://github.com/mrwatson-de/fmSyntaxColorizer/releases) of fmSyntaxColorizer from the [fmSyntaxColorizer repo][fmSyntaxColorizer repo]
    - Copy the fmSyntaxColorizer folder to your machine, wherever you want, or...
      - Applications folder (recommended)
      - Note: If you want to start fmSyntaxColorizer from [fmWorkMate|(https://www.fmworkmate.com)
