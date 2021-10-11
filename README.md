@@ -21,9 +21,13 @@ Did you say OPEN SOURCE?
 What has changed?
 
 - fmSyntaxColorizer is now a separate project to fmWorkMate
-- Support for dark mode - at last!
 - Collections - to quickly add/remove a bunch of syntax colors
-- *and* - as of version 1.2 - you can now change colors with the right-click > Text Color menu
+- Version 1.2 removed a bug making it possible again to change colors with the right-click > Text Color menu :D
+- Version 1.3 added support for dark mode - at last!
+- Version 1.4 together with MBS 11.5 added wildcard searches in formulas
+  - `*zzz*` highlights any zzz text in a calculation, such as **zzz**_DiscontinuedField
+  - With `*/*/**` (*) your attention is drawn to commented out comments, for example, in broken custom functions.
+    - (*) that's two block comments `/*` `/*` between two wildcard asterisks `*`...`*`- tricky!
 - See the [CHANGES](Changes.md) file for more
 
 One thing, however, won't change...
