@@ -28,6 +28,7 @@ What has changed?
   - `*zzz*` highlights any zzz text in a calculation, such as **zzz**_DiscontinuedField
   - With `*/*/**` (*) your attention is drawn to commented out comments, for example, in broken custom functions.
     - (*) that's two block comments `/*` `/*` between two wildcard asterisks `*`...`*`- tricky!
+- Version 1.5 added MBS options to use variable checking in scripts longer than 500 lines [:-)]
 - See the [CHANGES](Changes.md) file for more
 
 One thing, however, won't change...
@@ -36,7 +37,7 @@ One thing, however, won't change...
 
 Happy FileMaking!
 
-MrWatson 2021-09-16
+MrWatson 2021-11-04
 
 [![mrwatson.de][mrwatson.de logo]][mrwatson.de]
 
