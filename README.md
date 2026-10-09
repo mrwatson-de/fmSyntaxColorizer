@@ -1,45 +1,22 @@
 [![fmSyntaxColorizer logo][fmSyntaxColorizer logo]][fmSyntaxColorizer home]
 
 # fmSyntaxColorizer
+
 [See What You Mean!]
 
 A tool for FileMaker developers from MrWatson to put color in your scripts and meaning into your life.
 
-Copyright © 2021 MrWatson of www.mrwatson.de ([LICENSE](LICENSE))
+Copyright © 2021-2026 MrWatson of [mrwatson.de] ([LICENSE](LICENSE))
 
 ## Welcome
 
-Welcome to the new OPEN SOURCE version of fmSyntaxColorizer from MrWatson of www.mrwatson.de and fmworkmate.com
+Welcome to the OPEN SOURCE(*) version of fmSyntaxColorizer from MrWatson of [mrwatson.de] and fmworkmate.com
 
-Did you say OPEN SOURCE?
-
-- Yes, fmSyntaxColorizer is now OPEN SOURCE :D
-- It's licenced under a GNU GPLv3 licence
-- That means you have full access to the file, can change it to your needs, 
-  and you can - indeed are heartily invited to - contribute back to the project!
-
-What has changed?
-
-- fmSyntaxColorizer is now a separate project to fmWorkMate
-- Collections - to quickly add/remove a bunch of syntax colors
-- Version 1.2 removed a bug making it possible again to change colors with the right-click > Text Color menu :D
-- Version 1.3 added support for dark mode - at last!
-- Version 1.4 together with MBS 11.5 added wildcard searches in formulas
-  - `*zzz*` highlights any zzz text in a calculation, such as **zzz**_DiscontinuedField
-  - With `*/*/**` (*) your attention is drawn to commented out comments, for example, in broken custom functions.
-    - (*) that's two block comments `/*` `/*` between two wildcard asterisks `*`...`*`- tricky!
-- Version 1.5 added MBS options to use variable checking in scripts longer than 500 lines [:-)]
-- Versions 1.6 thru 1.12 have continued to improve fmSyntaxColorizer and keep it up to date 
-  with all the latest FM-changes and MBS goodies (not an easy task! :D)
-- See the [CHANGES](Changes.md) file for more
-
-One thing, however, won't change...
-
-- fmSyntaxColorizer is a mac-only tool. Sorry win-guys
+Check [CHANGES](CHANGES.md) to see whats new.
 
 Happy FileMaking!
 
-MrWatson 2023-03-03
+MrWatson 2026-10-09
 
 [![mrwatson.de][mrwatson.de logo]][mrwatson.de]
 
@@ -48,7 +25,6 @@ MrWatson 2023-03-03
 - [fmSyntaxColorizer home][fmSyntaxColorizer home]
 - [fmSyntaxColorizer repo][fmSyntaxColorizer repo]
 
-
 ## Get Started
 
 1. Install:
@@ -56,7 +32,7 @@ MrWatson 2023-03-03
    - Copy the fmSyntaxColorizer folder to your machine, wherever you want, or...
      - Applications folder (recommended)
      - Note: If you want to start fmSyntaxColorizer from [fmWorkMate|(https://www.fmworkmate.com)
-       place the fmSyntaxColorizer folder next to the fmWorkMate folder, 
+       place the fmSyntaxColorizer folder next to the fmWorkMate folder,
        or put the fmSyntaxColorizer file in the fmWorkMate folder!
    - Make Sure you have the latest [MBS-Plugin][MBS-Plugin] installed and registered
 2. Use:
@@ -75,10 +51,6 @@ It's a colorful life! :)
 
 (*) Not enjoying? Let me know, feedback, contribute!
 
-
-
-
-
 ## Light mode / dark mode troubleshooting
 
 You only need to run fmSyntaxColorizer once to get colored scripts every time you open your Script Workspace or calculation editor.
@@ -94,11 +66,11 @@ So, **if you switch between light and dark mode**:
 And **if the colors still don't look right**:
 
 - Reset the FileMaker Script Workspace colors:
-   - Script Workspace > Edit > Script Workspace Preferences > Syntax Coloring > [Reset to Default]
+  - Script Workspace > Edit > Script Workspace Preferences > Syntax Coloring > [Reset to Default]
 
 => Note: To avoid this problem you might prefer to NOT choose automatic light/dark mode switching in your system preferences.
 
-## Get in!
+## Get in
 
 SO, you are interested in how it all works?
 
@@ -108,7 +80,6 @@ To open fmSyntaxColorizer in developer mode:
 - Login using "the secret admin/admin password” ;-)
 - You're in - take a look around! (Note: It's not all nice on the inside :-] )
 
-
 ## Get Involved
 
 Please do help make fmSyntaxColorizer better!
@@ -117,6 +88,15 @@ Maybe we can make a better dark mode palette?
 Or add automatic dark/light palette selection?
 
 See the [CONTRIBUTING](CONTRIBUTING.md) file
+
+## (*) Open Source
+
+Did you say OPEN SOURCE?
+
+- Yes, fmSyntaxColorizer is now OPEN SOURCE :D
+- It's licenced under a GNU GPLv3 licence
+- That means you have full access to the file, can change it to your needs, 
+  and you can - indeed are heartily invited to - contribute back to the project!
 
 ## Tips & Tricks
 
@@ -137,7 +117,6 @@ MrWatson has a bunch of other stuff, check out [fmworkmate.com], [mrwatson.de], 
 - It's not possible to define colors which automatically change for light & dark mode
 - fmSyntaxColorizer does not automatically choose the correct color palette for the current light/dark mode
 - See the github issues page for more...
-
 
 [fmSyntaxColorizer home]:https://www.fmworkmate.com/fmsyntaxcolorizer
 [fmSyntaxColorizer repo]:https://github.com/mrwatson-de/fmSyntaxColorizer
